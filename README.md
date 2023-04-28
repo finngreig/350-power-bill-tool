@@ -6,7 +6,7 @@ This repo contains utility scripts for 350 Aotearoa's Power Bill Tool, which com
 
 ### Features
 
-- Calculates average prices across electricity sources.
+- Calculates average prices across electricity sources from EM6 data.
 - Filters data based on the desired month and year.
 - Handles JSON data format.
 
